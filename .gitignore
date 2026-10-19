@@ -1,0 +1,15 @@
+# Public repair repository: everything is excluded unless explicitly listed.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/Play-RA2.cmd
+!/Install-Compatibility.ps1
+!/Restore-Compatibility.ps1
+!/config/
+/config/*
+!/config/ddraw.ini
+!/config/RA2.INI
+!/repair-tools/
+/repair-tools/*
+!/repair-tools/Apply-Fullscreen.ps1
